@@ -1,0 +1,65 @@
+{
+  "case-studies": [
+    {
+      "title": "Ahon Webtoon",
+      "gallery": "Ahon",
+      "image": "img/case studies/ah (1).webp"
+    },
+    {
+      "title": "XBOX Digital Campaign",
+      "gallery": "Xbox",
+      "image": "img/case studies/xbox (1).webp"
+    },
+    {
+      "title": "Vaporwave Zine",
+      "gallery": "Vaporwave",
+      "image": "img/case studies/vw (1).webp"
+    }
+  ],
+
+  "packaging": [
+    {
+      "title": "Golden Experience",
+      "gallery": "GoldenEx",
+      "image": "img/package/s5.webp"
+    },
+    {
+      "title": "Dreamylk",
+      "gallery": "Dreamylk",
+      "image": "img/package/s3.webp"
+    },
+    {
+      "title": "Vanity | Sapphire",
+      "gallery": "Vanity",
+      "image": "img/package/vn (1).webp"
+    },
+    {
+      "title": "Packaging Redesigns",
+      "gallery": "Pacakage Designs",
+      "image": "img/package/s4.webp"
+    }
+  ],
+
+  "uiux": [
+    {
+      "title": "Calis",
+      "gallery": "Calis",
+      "image": "img/ui_ux_carousel/c (1).webp"
+    },
+    {
+      "title": "Unbeleafable",
+      "gallery": "Unbeleafable",
+      "image": "img/ui_ux_carousel/cover3.webp"
+    },
+    {
+      "title": "Famous Belgian Waffles",
+      "gallery": "FamousBelgianWaffles",
+      "image": "img/ui_ux_carousel/cover2.webp"
+    },
+    {
+      "title": "Cold Layers Cafe",
+      "gallery": "coldLayers",
+      "image": "img/ui_ux_carousel/cover1.webp"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "left": {
+      "title": "Stratworks Inc. - Multimedia Intern",
+      "date": "May 2024 - Oct 2024"
+    },
+    "right": {
+      "description": "Did video editing and graphic design for promotional videos, billboards and social media artcards as a creative to help with our clients' needs."
+    }
+  },
+  {
+    "left": {
+      "title": "iACADEMY - COMMS Department Assistant",
+      "date": "Oct 2024 - Mar 2025"
+    },
+    "right": {
+      "description": "Helped with the creative department back at iACADEMY with tasks such as video editing, event coverage and set management for photoshoots."
+    }
+  },
+  {
+    "left": {
+      "title": "Capstone Project Leader - Webtoon",
+      "date": "Jan 2023 - Mar 2025"
+    },
+    "right": {
+      "description": "Lead artist, script director and project manager for a capstone project where we created a 120 page one-shot webtoon comic depicting the issues in WPS."
+    }
+  },
+  {
+    "left": {
+      "title": "Freelance Artist",
+      "date": "2020 - Present"
+    },
+    "right": {
+      "description": "Did digital painting and illustration commissions ranging from Twitch emotes, Webtoon coloring, and fanarts."
+    }
+  }
+]
